@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Value=1.0
+Type=Application
+Name=Albion Online
+GenericName=MMORPG
+Comment=Play Albion Online!
+Icon=/home/ruivlea/albiononline/AlbionOnline.xpm
+Exec=__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia /home/ruivlea/albiononline/Albion-Online
+Categories=Game
+StartupWMClass=Albion-Online
+Path=/home/ruivlea/albiononline

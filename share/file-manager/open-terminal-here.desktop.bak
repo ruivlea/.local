@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+TargetToolbar=true
+ToolbarLabel=Open terminal here
+Name=Open terminal here
+Icon=utilities-terminal
+Profiles=foo;
+
+[X-Action-Profile foo]
+Exec=st -z 14 -d %F

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+TargetToolbar=true
+ToolbarLabel=Mount MTP
+Name=Mount MTP
+Icon=phone
+Profiles=foo;
+
+[X-Action-Profile foo]
+Exec=jmtpfs /home/ruivlea/mtp

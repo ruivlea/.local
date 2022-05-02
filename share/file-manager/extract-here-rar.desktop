@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Action
+TargetToolbar=true
+ToolbarLabel=Extract here
+Name=Extract here
+Icon=archive-extract
+Profiles=foo;
+
+[X-Action-Profile foo]
+Exec=st -z 14 -d %D -e "unrar x %F"
+MimeTypes=application/vnd.rar;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=st
+Type=Application
+Icon=utilities-terminal
+Exec=st -z 14
+Terminal=false
+Categories=System;TerminalEmulator;
+GenericName=Terminal emulator
+Comment=Terminal emulator
